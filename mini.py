@@ -7,7 +7,7 @@ python task_one.py --max 87  --any 15
 import argparse
 
 if __name__=="__main__":
-    """chang master file """
+    """chang master """
     example = """example:
     python task_one.py --max 87  --any 15
     """
